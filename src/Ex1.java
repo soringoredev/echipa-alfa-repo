@@ -6,7 +6,8 @@ public class Ex1 {
         System.out.println("Vasile Pusca");
         System.out.println("Sorin Gore");
 
-        System.out.println("Victor Lungu2");
+        System.out.println("Victor Lungu 2");
+        System.out.println("Ion Schimbator 2");
 
     }
 }
