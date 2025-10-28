@@ -14,5 +14,6 @@ public class Ex1 {
         System.out.println("Victor Lungu 3");
         System.out.println("Schimbator Ion 3");
         System.out.println("Pusca Vasile 3");
+        System.out.println("Sorin Gore 3");
     }
 }
